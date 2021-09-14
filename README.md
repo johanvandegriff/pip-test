@@ -4,7 +4,7 @@ This is an example python pip package to show how you can turn your code into a 
 Use one of the methods below to install this example pip package.
 ### From Release
 ```bash
-wget https://github.com/johanvandegriff/pip-test/releases/download/pip_test-0.1.0.tar.gz
+wget https://github.com/johanvandegriff/pip-test/releases/download/v0.1.0/pip_test-0.1.0.tar.gz
 pip install pip_test-0.1.0.tar.gz
 ```
 ### From Source
